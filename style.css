@@ -1,0 +1,26 @@
+h1 {
+    color: green;
+  }
+
+.intro-text {
+    font-size: x-large;
+    color: blue;
+}
+
+#joinButton {
+    background-color: blueviolet;
+    color: chartreuse;
+    font-size: medium;
+    cursor: pointer;
+}
+
+/* Elements h1, h2, div, p, spam*/
+/* Classes general set of elemets that have the same styling
+    red-buttons, yello-border
+*/
+/* ID's are unique, only 1 element can have a certain ID
+*/
+
+
+/*Paddings and Margin*/
+
